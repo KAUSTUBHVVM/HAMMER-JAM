@@ -1,1 +1,2 @@
-# HAMMER-JAM
+# Geologist
+Geologist Project
